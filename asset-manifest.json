@@ -1,19 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.e37fc059.css",
-    "main.js": "/static/js/main.2c8417ed.js",
+    "main.js": "/static/js/main.66d2155d.js",
+    "static/media/student_video.mp4": "/static/media/student_video.5ceedb6cb8b636af92d5.mp4",
+    "static/media/teacher_video.mp4": "/static/media/teacher_video.923d87957fe0610730c2.mp4",
+    "static/media/student_feature_computation.png": "/static/media/student_feature_computation.4acad29fdfe940e46392.png",
+    "static/media/teacher_student.png": "/static/media/teacher_student.cdb18ecef1306e5bc193.png",
+    "static/media/teacher_ggx.mp4": "/static/media/teacher_ggx.c3aacff39d8a4cbc594c.mp4",
     "static/media/teaser.png": "/static/media/teaser.fbccb12569d4402bc842.png",
+    "static/media/teacher_visiblity.mp4": "/static/media/teacher_visiblity.c197481b6b0829405262.mp4",
+    "static/media/student_overview.png": "/static/media/student_overview.d4e445f751b21c798f65.png",
     "static/media/qualitative_result.png": "/static/media/qualitative_result.6b92c990c6269340ba09.png",
+    "static/media/teacher_overview.png": "/static/media/teacher_overview.6d13268022bd7f6cfe53.png",
     "static/media/ycb_video.png": "/static/media/ycb_video.5841a926fc13a5dafb29.png",
     "static/media/linemod.png": "/static/media/linemod.ceab45bc17320968d4fd.png",
     "static/media/occ_linemod.png": "/static/media/occ_linemod.901c137866ae7fcd2cc0.png",
     "static/media/profile.png": "/static/media/profile.18129e97f5c28a5f112b.png",
     "index.html": "/index.html",
     "main.e37fc059.css.map": "/static/css/main.e37fc059.css.map",
-    "main.2c8417ed.js.map": "/static/js/main.2c8417ed.js.map"
+    "main.66d2155d.js.map": "/static/js/main.66d2155d.js.map"
   },
   "entrypoints": [
     "static/css/main.e37fc059.css",
-    "static/js/main.2c8417ed.js"
+    "static/js/main.66d2155d.js"
   ]
 }
