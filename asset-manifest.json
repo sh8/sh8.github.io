@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e37fc059.css",
-    "main.js": "/static/js/main.ccc73fc1.js",
+    "main.js": "/static/js/main.3ebb3505.js",
     "static/media/student_video.mp4": "/static/media/student_video.5ceedb6cb8b636af92d5.mp4",
     "static/media/teacher_video.mp4": "/static/media/teacher_video.923d87957fe0610730c2.mp4",
     "static/media/student_feature_computation.png": "/static/media/student_feature_computation.4acad29fdfe940e46392.png",
@@ -15,13 +15,13 @@
     "static/media/ycb_video.png": "/static/media/ycb_video.5841a926fc13a5dafb29.png",
     "static/media/linemod.png": "/static/media/linemod.ceab45bc17320968d4fd.png",
     "static/media/occ_linemod.png": "/static/media/occ_linemod.901c137866ae7fcd2cc0.png",
-    "static/media/profile.png": "/static/media/profile.18129e97f5c28a5f112b.png",
+    "static/media/profile.jpg": "/static/media/profile.103fb3eae05de6aa5574.jpg",
     "index.html": "/index.html",
     "main.e37fc059.css.map": "/static/css/main.e37fc059.css.map",
-    "main.ccc73fc1.js.map": "/static/js/main.ccc73fc1.js.map"
+    "main.3ebb3505.js.map": "/static/js/main.3ebb3505.js.map"
   },
   "entrypoints": [
     "static/css/main.e37fc059.css",
-    "static/js/main.ccc73fc1.js"
+    "static/js/main.3ebb3505.js"
   ]
 }
