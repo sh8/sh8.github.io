@@ -1,14 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.e37fc059.css",
-    "main.js": "/static/js/main.cfb302fc.js",
+    "main.js": "/static/js/main.63e5e47e.js",
     "static/media/student_video.mp4": "/static/media/student_video.5ceedb6cb8b636af92d5.mp4",
+    "static/media/dataset.png": "/static/media/dataset.fa45df4a678dd36c09ad.png",
     "static/media/teacher_video.mp4": "/static/media/teacher_video.923d87957fe0610730c2.mp4",
+    "static/media/results_hope.png": "/static/media/results_hope.2e6cc4f30a77aa10f7f4.png",
+    "static/media/results_hb.png": "/static/media/results_hb.a91d5153a5bd3f4a166e.png",
     "static/media/student_feature_computation.png": "/static/media/student_feature_computation.4acad29fdfe940e46392.png",
     "static/media/teacher_student.png": "/static/media/teacher_student.cdb18ecef1306e5bc193.png",
     "static/media/teacher_ggx.mp4": "/static/media/teacher_ggx.c3aacff39d8a4cbc594c.mp4",
+    "static/media/high_overview.png": "/static/media/high_overview.874187fd644a1020af2d.png",
     "static/media/teaser.png": "/static/media/teaser.fbccb12569d4402bc842.png",
     "static/media/teacher_visiblity.mp4": "/static/media/teacher_visiblity.c197481b6b0829405262.mp4",
+    "static/media/network_architecture.png": "/static/media/network_architecture.d09b901f41c9c9826723.png",
     "static/media/student_overview.png": "/static/media/student_overview.d4e445f751b21c798f65.png",
     "static/media/qualitative_result.png": "/static/media/qualitative_result.6b92c990c6269340ba09.png",
     "static/media/teacher_overview.png": "/static/media/teacher_overview.6d13268022bd7f6cfe53.png",
@@ -18,10 +23,10 @@
     "static/media/profile.jpg": "/static/media/profile.103fb3eae05de6aa5574.jpg",
     "index.html": "/index.html",
     "main.e37fc059.css.map": "/static/css/main.e37fc059.css.map",
-    "main.cfb302fc.js.map": "/static/js/main.cfb302fc.js.map"
+    "main.63e5e47e.js.map": "/static/js/main.63e5e47e.js.map"
   },
   "entrypoints": [
     "static/css/main.e37fc059.css",
-    "static/js/main.cfb302fc.js"
+    "static/js/main.63e5e47e.js"
   ]
 }
